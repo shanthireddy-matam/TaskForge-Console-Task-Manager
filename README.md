@@ -9,5 +9,5 @@ Mark tasks as done
 Delete tasks
 
 
-How to Run
+How to Run:
 python task_manager.py
